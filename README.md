@@ -7,7 +7,7 @@
 - Programador Front-End Júnior; <br>
 - Entre em contato: <strong>matpozzebon0613@gmail.com</strong><br>
   <h3>Meu site:</h3>
-  <a href="meuportfolio-lac.vercel.app">Portfólio</a>
+  <a href="https://meuportfolio-lac.vercel.app/">Portfólio</a>
 </div>
 <hr>
 <div>
